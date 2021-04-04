@@ -13,4 +13,7 @@
 - [ ] User sees a 'card flip' animation when the card is tapped
 - [ ] User sees a celebration animation with confetti when they answer a question correctly
 
-<img src="https://s3.amazonaws.com/img0.recordit.co/lomQNNJBAY.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1617534010&Signature=jhHv4EWcc9%2F1b2xPmiKsvPBRhkk%3D" width="200" height="400" />  
+<img src="https://user-images.githubusercontent.com/76245562/113505189-74e0ed00-9567-11eb-95df-90a45a9a18e2.mp4" width="200" height="400" />  
+
+
+
