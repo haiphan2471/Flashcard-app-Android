@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flaschcard</string>
+    <string name="question">What is the 44th President of the United States?</string>
+    <string name="option1">Barack Obama</string>
+    <string name="option2">Bill Clinton</string>
+    <string name="option3">Donald Trump</string>
+    <string name="second_wrong_answer">wrong answer</string>
+    <string name="first_wrong_answer">wrong answer</string>
+    <string name="correct_answer">right answer</string>
+    <string name="add_question">question</string>
+</resources>

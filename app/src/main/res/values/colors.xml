@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <color name="pink_light">#F7CED7</color>
+    <color name="pink_dark">#EF6079</color>
+    <color name="purple">#93385F</color>
+    <color name="lilac">#9F6B99</color>
+    <color name="petunia">#4F3466</color>
+    <color name="aubergine">#301728</color>
+
+
+    <color name="combA1">#AB87FF</color>
+    <color name="combA2">#F5FFC6</color>
+    <color name="combA3">#B4E1FF</color>
+    <color name="combA4">#FFACE4</color>
+    <color name="combA5">#C1FF9B</color>
+
+
+    <color name="combB1">#9B5DE5</color>
+    <color name="combB2">#F15BB5</color>
+    <color name="combB3">#FEE440</color>
+    <color name="combB4">#00BBF9</color>
+    <color name="combB5">#00F5D4</color>
+
+
+    <color name="combC1">#90F1EF</color>
+    <color name="combC2">#FFD6E0</color>
+    <color name="combC3">#FFEF9F</color>
+    <color name="combC4">#C1FBA4</color>
+    <color name="combC5">#7BF1A8</color>
+
+    <color name="green_confetti">#008000</color>
+
+    <color name="black">#000000</color>
+    <color name="black2">#212529</color>
+    <color name="black3">#343A40</color>
+    <color name="black4">#495057</color>
+    <color name="black5">#6C757D</color>
+    <color name="black6">#ADB5BD</color>
+    <color name="black7">#CED4DA</color>
+    <color name="black8">#DEE2E6</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
