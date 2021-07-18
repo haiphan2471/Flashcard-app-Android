@@ -1,17 +1,17 @@
-# Flashcard-week-7
+# Flashcard
 
-# Lab 4 : 
+## Creating a flashcard application in Android using Android Studion 
 
-## Required
-- [X] User sees a transition animation when going from the main screen to the add card screen.
-- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
-- [X] User sees flashcards animating in / out when the 'next' button is tapped
+## The app includes the below functions:
+- [X] Screen: a screen to display each flashcard at a time and a screen to add the new flashcard
+- [X] Show/Hide: a button to show or hide the multiple choices of a flashcard
+- [X] Transition: a button to slide among different flashcards
+- [X] Edit: a button to edit the question and choices of the available flashcards
+- [X] Delete: a button to delete flashcards
+- [X] UI/UX:  
+- A notification is shown when (1) the card was created successfully, (2) the user doesn't enter both a question and answer(s), (3) reaching the end of the flaschcard collection and turning back to the first card, (4) the collection has no cards and needs the user to add more
+- A celebration animation with confetti when the user answers a question correctly
+- Extra animations and styling
 
-## Optional
-- [X] Extra styling is added!
-- [ ] User sees a countdown timer for each question
-- [ ] User sees a 'card flip' animation when the card is tapped
-- [ ] User sees a celebration animation with confetti when they answer a question correctly
-
-Link to the gif: 
-https://user-images.githubusercontent.com/76245562/113505189-74e0ed00-9567-11eb-95df-90a45a9a18e2.mp4
+## A short review of the app
+![](https://im.ezgif.com/tmp/ezgif-1-8fc598cf7199.gif)
